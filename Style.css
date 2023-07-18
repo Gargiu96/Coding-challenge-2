@@ -1,0 +1,105 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+.contenitore{
+    width: 1600px;
+    height: 1000px;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: auto;
+    margin-top: 70px;
+}
+
+.Logo{
+    width: 320px;
+    margin-top: 100px;
+}
+
+header{
+    text-align: center;
+    color: chartreuse;
+    font-size: 18px;
+    padding: 3px;
+    margin-top: 20px;
+}
+
+main{
+    margin-top: 15px;
+}
+
+.Pulsanti{
+    text-align: center;
+    background-color: chartreuse;
+    height: 45px;
+    padding: 10px;
+    max-width: 1400px;
+    margin: auto;
+}
+
+.Gino22{
+    font-size: 20px;
+    margin-top: 30px;
+    color: white;
+    margin-left: 100px;
+}
+
+#Nome-gino{
+    font-size: 30px;
+}
+
+#Nome-mike{
+    font-size: 30px;
+}
+
+#Nome-fede{
+    font-size: 30px;
+}
+
+.batteria1{
+    height: 30px;
+    width: 380px;
+    background-color: darkorange;
+    border-radius: 5px;
+}
+
+.Mike24{
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;    
+    color: white;
+    margin-left: 100px;
+}
+
+.batteria2{
+    height: 30px;
+    width: 700px;
+    background-color:lime;
+    border-radius: 5px;
+}
+
+
+.Fede154{
+    font-size: 20px;
+    margin-bottom: 40px;
+    color: white;
+    margin-left: 100px;
+
+}
+
+.batteria3{
+    height: 30px;
+    width: 180px;
+    background-color:red;
+    border-radius: 5px;
+}
+
+
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
